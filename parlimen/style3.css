@@ -1,0 +1,149 @@
+/*-------General tag-----------*/
+body{
+	margin-top:0;
+	margin-left:0;
+	margin:0;
+	right:0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;}
+table{
+	border-collapse:collapse}
+th{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background-color:#CCCCCC;
+	font-weight:bold;
+	border-top: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #FFFFFF;
+	height:20px;}
+td{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	border-color:#c0c0c0;
+	border-width:1px;
+	vertical-align:top}
+select{font-size:9pt}
+fieldset{
+	font-size:9pt;
+	border-style:solid;
+	border-width:1px;
+	border-color:#C0C0C0;
+	background-color:#E0EEEE;
+	padding-left: 10px;
+	padding-right: 10px;
+	width:99%; 
+	margin:10px}
+legend {
+	padding: 0.2em 0.5em;
+	border:1px solid;
+	color:#FFFFFF;
+	font-size:90%;
+	font-weight:bold;
+	text-align:right;
+	background-color:#104e8b}
+/*-------General tag-----------*/
+
+/*-------Style in tag----------*/
+a.link2:link,a.link2:active,a.link2:visited,a.link2:hover{
+	font-family:verdana;
+	font-size:8pt;
+	text-decoration:none;
+	font-weight:normal;
+	background-color:transparent;
+	color:black;
+	border-style:none}
+A:visited,A:link,A:active{
+	text-decoration:none;
+	font-weight:bold;
+	color: #104E8B;font-size:8pt;}
+A:hover{ 
+	text-decoration:none; 
+	color:white;
+	background-color:#6CA6CD;
+	border-style:none;
+	border-width:0px;
+	border-color:#ffffff}
+A.highlight:visited,A.hightlight:link,A.highlight:active{
+	color:#CD950C}
+td.tdm{
+	width:350px;
+	height:40px;
+	vertical-align:middle}
+td.rec{
+	font-size:8pt;
+	border-style:solid;
+	border-color:white}
+td.menu{
+	border-width:0;
+	border-right-width:1px;
+	border-color:#c0c0c0;
+	border-style:solid;
+	background-color:#c6d3f7}
+td.content{background-color:#efefff}
+td.level1{
+	background-color:#104e8b;
+	font-weight:bold;
+	font-size:8pt;
+	color:#ffffff}
+td.level2{
+	font-weight:bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt
+}
+font.dim{
+	color:#adadad;
+	font-weight:bold;
+	font-family:verdana;
+	font-size:8pt}
+font.fs{
+	color:red;
+	font-weight:bold;
+	font-family:verdana;
+	font-size:8pt}
+font.highlight{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	font-weight:bold;
+	color:#CD950C}
+font.current_user{	
+	font-family:Arial;
+	font-size:9pt;
+	color: #0080C0;	
+	font-style: italic}
+input.txt{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ADD8E6 }
+/*-------Style in tag----------*/
+
+/*-------Open style------------*/
+.footer{
+	background-color:#006699;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ffffff;
+	text-align:center;		
+	letter-spacing:1px;
+	vertical-align:middle;}
+.button{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	cursor:pointer;}
+.highlight{border-color:red}
+.pdf{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt}
+.button_del{
+	color: #000000;
+	font-size:9px;
+	border:1px solid;
+	border-color: #7bf #07c #07c #7bf;
+	background-color: #FF6600;
+	display:compact;
+	height:20px;
+	cursor:pointer;
+}

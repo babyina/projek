@@ -1,0 +1,1329 @@
+KEMENTERIAN KEWANGAN SISTEM `COMMON OFFICE ENVIRONMENT (COE)'
+MODUL : e-LATIHAN PANDUAN PENGGUNA Disediakan oleh : INTERXS SDN. BHD. 38,
+Jalan Dagang SB 4/2, Taman Sg. Besi Indah, 43300 Seri Kembangan, Selangor
+Malaysia. Tel.: 03-8943 0443 Fax: 03-8943 0445  KANDUNGAN 1.0      
+PENGENALAN.....................................................................................................1
+2.0       STANDARD
+SISTEM..............................................................................................3
+3.0       KAWALAN KESELAMATAN SISTEM
+.....................................................................4 4.0 
+     KAEDAH CAPAIAN
+SISTEM.................................................................................6
+5.0       MENU UTAMA SISTEM
+.........................................................................................8
+6.0       JADUAL KURSUS DAN PEPERIKSAAN
+...............................................................10 6.1      
+  Kemasukan Rekod
+..........................................................................................................10
+  6.2         Kemaskini Rekod
+.............................................................................................................12
+6.3         Hapuskan Rekod
+.............................................................................................................13
+6.4         Kakitangan menerima e-mel notifikasi maklumat kursus baru.
+.............................14 6.5         Paparan Jadual Kursus dan
+Peperiksaan
+..................................................................14 7.0   
+   PERANCANGAN KURSUS TAHUNAN KAKITANGAN
+........................................18 7.1         Membuat Perancangan
+...............................................................................................18
+7.2         Kakitangan KWP melihat kembali perancangan yang telah dibuat.
+.................19 7.3         Kakitangan Unit PSM melihat semua
+perancangan kursus yang telah dibuat..19 7.4         Hapuskan Rekod
+.............................................................................................................20
+  7.5         Senarai Paparan
+.............................................................................................................20
+8.0       KURSUS ANJURAN UNIT LAIN
+...........................................................................22
+8.1         Kemasukan Rekod
+..........................................................................................................22
+8.2         Penganjur/Kakitangan Unit PSM melihat kembali senarai yang
+telah
+dimasukkan....................................................................................................................................23
+8.3         Hapuskan Rekod
+.............................................................................................................24
+8.4         Senarai Paparan
+.............................................................................................................24
+9.0       LAPORAN
+JPA...................................................................................................26
+9.1         Kemasukan Rekod
+..........................................................................................................26
+  9.2         Kakitangan Unit PSM melihat kembali rekod yang telah
+dimasukkan.................26 9.3         Hapuskan Rekod
+.............................................................................................................27
+9.4         Senarai Paparan
+.............................................................................................................27
+10.0  PEPERIKSAAN/KURSUS/PENILAIAN
+PTK............................................................28 10.1 
+Kemasukan Rekod
+..........................................................................................................28
+10.2  Kakitangan Unit PSM melihat kembali rekod yang telah
+dimasukkan.................29 10.3  Hapuskan Rekod
+.............................................................................................................29
+10.4  Senarai Paparan
+.............................................................................................................30
+11.0  PEPERIKSAAN PERKHIDMATAN AWAM/PEPERIKSAAN
+JABATAN...................31   
+______________________________________________________________________________
+11.1  Kemasukan Rekod
+..........................................................................................................31
+11.2  Kakitangan Unit PSM melihat kembali rekod yang telah
+dimasukkan.................32 11.3  Hapuskan Rekod
+.............................................................................................................32
+11.4  Senarai Paparan
+.............................................................................................................32
+12.0  PERMOHONAN
+KURSUS....................................................................................34
+12.1  Mohon
+Berkursus..............................................................................................................34
+12.2  Pemohon melihat semula permohonan yang telah
+dihantar...............................35 12.3  Kakitangan Unit PSM
+menerima emel notifikasi permohonan kursus...................35 12.4  Unit
+PSM mengambil tindakan terhadap permohonan
+kursus..............................36   12.5  Ketua Unit menerima emel notifikasi dan mengambil
+tindakan...........................37 12.6  Unit PSM mengemaskini Status
+Kehadiran Kakitangan Selepas Kursus................38 12.7  Senarai Paparan
+.............................................................................................................38
+13.0  KURSUS DALAMAN
+...........................................................................................40
+13.1  Pencalonan
+Kursus..........................................................................................................40
+13.2  Ketua Unit mengambil tindakan terhadap pencalonan
+kakitangannya...........42 13.3  Ketua Unit mengambil tindakan terhadap
+pencalonan kakitangannya ­ Peserta
+Ganti.................................................................................................................................44
+13.4  Unit PSM mengemaskini Status kehadiran selepas kursus
+.......................................46 13.5  Senarai Paparan
+.............................................................................................................47
+  14.0  KURSUS LUARAN
+...............................................................................................49
+14.1  Pencalonan
+Kursus..........................................................................................................49
+14.2  Ketua Unit mengambil tindakan terhadap pencalonan
+kakitangannya...........51 14.3  Ketua Unit mengambil tindakan terhadap
+pencalonan kakitangannya ­ Peserta
+Ganti.................................................................................................................................53
+14.4  Unit PSM mengemaskini Status kehadiran selepas kursus
+.......................................55 14.5  Senarai Paparan
+.............................................................................................................56
+15.0  LAPORAN PENILAIAN KURSUS
+DALAMAN.......................................................58 15.1 
+Kemasukan Rekod
+..........................................................................................................58
+15.2  Kakitangan Unit PSM menerima emel notifikasi laporan penilaian kursus
+  dalaman.........................................................................................................................................59
+15.3  Senarai Paparan
+.............................................................................................................59
+16.0  LAPORAN PENILAIAN KURSUS
+LUARAN...........................................................61 16.1 
+Kemasukan Rekod
+..........................................................................................................61
+16.2  Kakitangan Unit PSM menerima emel notifikasi laporan penilaian kursus
+luaran 62 16.3  Senarai Paparan
+.............................................................................................................63
+INTEXS SDN BHD 
+______________________________________________________________________________
+17.0  LAPORAN KURSUS/PEPERIKSAAN AGENSI
+......................................................64 17.1  Menghantar
+Format
+Laporan.......................................................................................64
+  17.2  Agensi menerima e-mel notifikasi daripada sistem
+................................................65 7.3       Melihat semula
+rekod laporan yang telah
+dihantar................................................68 18.0 
+LAPORAN/STATISTIK
+.........................................................................................69
+18.1  Laporan
+Perbelanjaan...................................................................................................69
+18.2  Laporan Bilangan Pegawai Yang Menghadiri
+Kursus..............................................69 18.3  Laporan
+Bilangan Pegawai Yang Menghadiri Kursus Mengikut Bidang Kursus..69 18.4 
+Jadual 1 ­ Prestasi Kehadiran Kursus Pegawai Pengurusan & Profesional dan
+Pegawai Kumpulan Sokongan
+..................................................................................................69
+18.5  Carta 1 - Prestasi Kehadiran Kursus Pegawai Pengurusan & Profesional
+dan Pegawai Kumpulan Sokongan
+..................................................................................................69
+  18.6  Jadual 2 ­ Prestasi Kehadiran Kursus Pegawai Pengurusan &
+Profesional ..........69 18.7  Carta 2 ­ Prestasi Kehadiran Kursus Pegawai
+Pengurusan & Profesional ............69 18.8  Jadual 3 ­ Prestasi Kehadiran
+Kursus Pegawai Kumpulan Sokongan ..................69 18.9  Carta 3 -
+Prestasi Kehadiran Kursus Pegawai Kumpulan Sokongan.....................69
+18.10         Jadual 4 ­ Bilangan Kehadiran Mengikut Bidang
+Kursus....................................69 INTEXS SDN BHD 
+______________________________________________________________________________
+SENARAI JADUAL Jadual 1: Butang
+Asas........................................................................................................................3
+Jadual 2: Capaian
+Sistem..................................................................................................................5
+Jadual 3: View Senarai Bilik
+.............................................................................................................15
+Jadual 4: Senarai View Perancangan Kursus
+Individu...............................................................21   Jadual 5: Senarai View peserta kursus anjuran unit
+lain............................................................25 Jadual
+6: Senarai View laporan JPA
+.............................................................................................27
+Jadual 7: Senarai View laporan peperiksaan PTK
+......................................................................30
+Jadual 8: Senarai View laporan peperiksaan perkhidmatan awam dan
+peperiksaan
+jabatan................................................................................................................................................33
+Jadual 9: Senarai View permohonan
+kursus................................................................................39
+Jadual 10: Senarai View kursus
+dalaman.....................................................................................48
+Jadual 11: Senarai View kursus luaran
+..........................................................................................57
+Jadual 12: Senarai View laporan penilaian kursus dalaman
+...................................................60   Jadual 13: Senarai View laporan penilaian kursus
+luaran.........................................................63 INTEXS
+SDN BHD 
+______________________________________________________________________________
+SENARAI GAMBARAJAH Gambarajah 1: Pelayar web: Memasukkan alamat web bagi
+Sistem COE..........................6 Gambarajah 2: Login Skrin
+................................................................................................................6
+Gambarajah 3: Mesej ralat: ID atau kata laluan
+salah...............................................................7
+Gambarajah 4: Menu Utama
+COE..................................................................................................7
+Gambarajah 5: Skrin bagi Unit PSM
+.................................................................................................8
+Gambarajah 6: Skrin bagi Unit-unit Penganjur
+..............................................................................9
+Gambarajah 7: Skrin kemasukan maklumat kursus atau peperiksaan
+..................................10   Gambarajah 8: Skrin untuk memasukkan tarikh
+kursus..............................................................11
+Gambarajah 9: Skrin untuk memasukkan tarikh peperiksaan
+.................................................11 Gambarajah 10: Jadual
+bagi tarikh kursus
+..................................................................................12
+Gambarajah 11: Medan untuk memilih kakitangan untuk penyebaran kursus yang
+dimasukkan
+........................................................................................................................................12
+Gambarajah 12: Mesej penyebaran maklumat kursus baru
+...................................................12 Gambarajah 13:
+Senarai view Jadual Kursus
+..............................................................................13
+Gambarajah 14: Skrin Senarai
+jadual............................................................................................13
+Gambarajah 15: Emel notifikasi penyebaran kursus baru
+........................................................14   Gambarajah 16: Kandungan emel notifikasi penyebaran kursus baru
+.................................14 Gambarajah 17: Senarai keseluruhan
+kursus dan peperiksaan ..............................................15
+Gambarajah 18: Jadual kursus dan peperiksaan mengikut
+klasifikasi...................................16 Gambarajah 19: Jadual
+kursus dan peperiksaan mengikut
+kategori....................................16 Gambarajah 20: Jadual kursus
+dan peperiksaan yang dianjurkan oleh syarikat swasta ..16 Gambarajah 21:
+Jadual kursus dan peperiksaan yang dianjurkan oleh INTAN/JPA/Institusi
+Latihan
+Awam....................................................................................................................................17
+Gambarajah 22: Jadual kursus dan peperiksaan mengikut tahun, bulan dan kos
+............17 Gambarajah 23: Jadual PTK mengikut tahun
+.............................................................................17
+Gambarajah 24: Skrin Perancangan kursus
+individu..................................................................18
+  Gambarajah 25: Klik pilihan tarikh yang diingini di medan `Rancang'
+.................................19 Gambarajah 26: Rekod perancangan kursus
+individu..............................................................19
+Gambarajah 27: Senarai perancangan individu untuk semua
+kakitangan.........................19 Gambarajah 28: Senarai perancangan
+kursus individu mengikut bidang kursus ...............21 Gambarajah 29:
+Skrin Kursus Anjuran Unit Lain
+...........................................................................22
+Gambarajah 30: Pilihan kursus lain
+................................................................................................23
+Gambarajah 31: Medan Bil Hari akan terpapar secara automatik
+.......................................23 Gambarajah 32: Pilihan peserta
+....................................................................................................23
+Gambarajah 33: Senarai rekod peserta kursus anjuran unit
+lain.............................................24 Gambarajah 34: Skrin
+Laporan
+JPA...............................................................................................26
+  Gambarajah 35: Senarai laporan
+JPA..........................................................................................26
+Gambarajah 36: Kemasukan rekod peperiksaan, kursus atau penilaian PTK
+......................28 Gambarajah 37: Senarai rekod peperiksaan, kursus
+atau penilaian PTK ..............................29 Gambarajah 38:
+Kemasukan rekod peperiksaan perkhidmatan awam atau peperiksaan
+jabatan................................................................................................................................................31
+Gambarajah 39: Senarai rekod peperiksaan perkhidmatan awam atau peperiksaan
+jabatan................................................................................................................................................32
+Gambarajah 40: Permohonan menghadiri kursus ­ Butiran
+pemohon..................................34 Gambarajah 41: Mesej
+penghantaran emel notifikasi kepada kakitangan Unit PSM .......35
+Gambarajah 42: Senarai permohonan kursus kakitangan ­ permohonan
+sendiri..............35   Gambarajah 43: Emel notifikasi permohonan menghadiri
+kursus...........................................35 Gambarajah 44:
+Kandungan emel notifikasi permohonan
+kursus..........................................36 Gambarajah 45:
+Permohonan Kursus - Status Kelulusan PSM
+..................................................36 Gambarajah 46: Mesej
+pengesahan penghantaran emel
+notifikasi.....................................36 INTEXS SDN BHD 
+______________________________________________________________________________
+Gambarajah 47: Emel notifikasi permohonan kursus ­ pengesahan Ketua Unit
+.................37 Gambarajah 48: Kandungan emel notifikasi permohonan
+kursus ­ pengesahan Ketua
+Unit........................................................................................................................................................37
+Gambarajah 49: Permohonan kursus - Pengesahan Ketua Unit
+.............................................37 Gambarajah 50: Mesej
+pengesahan penghantaran emel notifikasi kepada Unit PSM ­   selepas kelulusan Ketua
+Unit...........................................................................................................37
+Gambarajah 51: Emel notifikasi pengesahan oleh Ketua Unit
+................................................38 Gambarajah 52:
+Permohonan Kursus ­ Status kehadiran Selepas Kursus
+.............................38 Gambarajah 53: Pencalonan Kursus Dalaman
+..........................................................................40
+Gambarajah 54: Pilih peserta
+kursus..............................................................................................41
+Gambarajah 55: Senarai peserta pilihan
+.....................................................................................41
+Gambarajah 56: Mesej pengesahan penghantaran pencalonan kursus dalaman
+..........42 Gambarajah 57: Emel notifikasi pencalonan kursus
+..................................................................42
+Gambarajah 58: Skrin pencalonan peserta kursus dalaman
+..................................................42   Gambarajah 59: Skrin Kehadiran Kursus
+.......................................................................................43
+Gambarajah 60: Pencalonan kursus dalaman ­ status kelulusan oleh Ketua
+Unit..............43 Gambarajah 61: Senarai Peserta ­ Selepas kelulusan
+Ketua Unit...........................................43 Gambarajah 62: Emel
+notifikasi pencalonan kursus
+..................................................................44
+Gambarajah 63: Skrin pencalonan peserta kursus dalaman
+..................................................44 Gambarajah 64: Skrin
+Kehadiran Kursus
+.......................................................................................45
+Gambarajah 65: Pencalonan kursus dalaman ­ Peserta
+Ganti..............................................45 Gambarajah 66:
+Senarai Peserta ­ Selepas kelulusan Ketua
+Unit...........................................46 Gambarajah 67: Senarai
+Peserta untuk kemaskini status kehadiran selepas kursus ...........46
+Gambarajah 68: Skrin Status Kehadiran Selepas
+Kursus............................................................47   Gambarajah 69: Skrin kursus dalaman ­ Kemaskini status kehadiran selepas
+kursus..........47 Gambarajah 70: Pencalonan Kursus
+Luaran...............................................................................49
+Gambarajah 71: Pilih peserta
+kursus..............................................................................................50
+Gambarajah 72: Senarai peserta pilihan
+.....................................................................................50
+Gambarajah 73: Mesej pengesahan penghantaran pencalonan kursus luaran
+...............51 Gambarajah 74: Emel notifikasi pencalonan kursus luaran
+.....................................................51 Gambarajah 75:
+Skrin pencalonan peserta kursus
+luaran........................................................51 Gambarajah
+76: Skrin Kehadiran Kursus
+.......................................................................................52
+Gambarajah 77: Pencalonan kursus luaran ­ status kelulusan oleh Ketua Unit
+...................52 Gambarajah 78: Senarai Peserta ­ Selepas kelulusan
+Ketua Unit...........................................52   Gambarajah 79: Emel notifikasi pencalonan kursus
+..................................................................53
+Gambarajah 80: Skrin pencalonan peserta kursus
+luaran........................................................53 Gambarajah
+81: Skrin Kehadiran Kursus
+.......................................................................................54
+Gambarajah 82: Pencalonan kursus luaran ­ Peserta Ganti
+...................................................54 Gambarajah 83:
+Senarai Peserta ­ Selepas kelulusan Ketua
+Unit...........................................55 Gambarajah 84: Senarai
+Peserta untuk kemaskini status kehadiran selepas kursus ...........55
+Gambarajah 85: Skrin Status Kehadiran Selepas
+Kursus............................................................56
+Gambarajah 86: Skrin kursus dalaman ­ Kemaskini status kehadiran selepas
+kursus..........56 Gambarajah 87: Laporan penilaian kursus
+dalaman................................................................58
+Gambarajah 88: Mesej penghantaran emel notifikasi kepada kakitangan Unit
+PSM .......59   Gambarajah 89: Emel notifikasi laporan penilaian kursus dalaman
+......................................59 Gambarajah 90: Kandungan emel
+notifikasi laporan penilaian kursus dalaman ...............59 Gambarajah
+91: Laporan penilaian kursus luaran
+.....................................................................61
+Gambarajah 92: Mesej penghantaran emel notifikasi kepada kakitangan Unit
+PSM .......62 Gambarajah 93: Emel notifikasi laporan penilaian kursus
+luaran............................................62 Gambarajah 94:
+Kandungan emel notifikasi laporan penilaian kursus luaran
+....................62 Gambarajah 95: Laporan kursus/peperiksaan agensi
+..............................................................64 Gambarajah
+96: Mesej penghantaran emel notifikasi kepada kakitangan Unit PSM .......65
+INTEXS SDN BHD 
+______________________________________________________________________________
+Gambarajah 97: Emel notifikasi untuk mengambil tindakan terhadap format
+laporan yang
+diterima.....................................................................................................................................65
+  Gambarajah 98: Kandungan emel notifikasi
+..............................................................................65
+Gambarajah 99: Skrin untuk memasukkan laporan kursus/peperiksaan agensi
+.................66 Gambarajah 100: Lampiran laporan kursus/peperiksaan
+........................................................66 Gambarajah 101:
+Tetingkap untuk menyimpan fail lampiran ke dalam komputer............67
+Gambarajah 102: Maklumat diisi oleh
+agensi.............................................................................67
+Gambarajah 103: Skrin pengesahan laporan telah dihantar kepada pihak PSM
+KWP.....68 Gambarajah 104: Skrin senarai laporan
+agensi..........................................................................68
+INTEXS SDN BHD  Panduan Pengguna                                        
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+1.0     PENGENALAN Sistem  e-Latihan  merupakan  salah  satu  modul  yang 
+terdapat  di  dalam  Sistem   `Common Office Environment'. Sistem ini mempunyai ciri-ciri yang berikut:
+proses permohonan kursus secara online pencalonan  kursus  oleh  Unit 
+Pembangunan  Sumber  Manusia (PSM) kepada kakitangan yang terpilih secara
+online proses  aliran  kerja  (workflow)  secara  automasi  iaitu  melalui
+penghantaran notifikasi e-mel. Merekod laporan kursus dan peperiksaan bagi
+setiap agensi di bawah KWP. Merekod  peperiksaan  PTK,  peperiksaan 
+jabatan  dan perkhidmatan awam bagi semua kakitangan KWP Penyimpanan  rekod
+ kursus  dan  peperiksaan  disusun  secara teratur bagi memudahkan
+pencarian. Penyediaan statistik dan laporan untuk tujuan analisis data
+Secara umumnya berikut adalah ciri-ciri Sistem e-Latihan: aplikasi 
+berasaskan  web  membolehkan  sistem  ini  dicapai menggunakan standard web
+browser aplikasi berasaskan workflow bagi mengurangkan pergerakan dokumen
+secara fizikal. Integrasi  dengan  e-mel  ­  sistem  diintegrasikan  dengan
+kemudahan e-mel membolehkan pengguna mendapat e-mel notifikasi sekiranya
+terdapat tindakan atau tugasan yang perlu   diambil oleh seseorang pengguna. Free-text  search  -  Proses  carian 
+dapat  dilakukan  dengan cepat,  free-text  search  adalah  fungsi 
+bina-dalam  (built-in) yang  terdapat  di  dalam  Lotus  Domino  Server. 
+Pengguna hanya  perlu  menaip  perkataan  yang  dicari  dan  sistem  akan
+memaparkan  rekod  yang  memenuhi  kriteria  carian  yang ditentukan.
+INTEXS SDN BHD                                                             
+                1  Panduan Pengguna                                    
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Penyimpanan  data  secara  berpusat  -  membolehkan maklumat  yang  sama 
+dicapai  oleh  pengguna  yang  berbeza pada masa yang sama. Kawalan 
+keselamatan  sistem  -  ditentukan  dengan penggunaan  ID  Pengguna  dan 
+kata  laluan.  Selain  daripada ID  Pengguna  penggunaan  Role  juga  akan 
+menambah  lagi tahap kawalan keselamatan sistem. INTEXS SDN BHD            
+                                                           2    Panduan Pengguna                                             Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+2.0     STANDARD SISTEM Bagi  memudahkan  pengguna,  butang-butang  asas 
+akan  digunakan  di  dalam setiap sistem. Setiap butang ini mempunyai
+fungsi tersendiri. Butang                                      Kegunaan
+Simpan              *  Untuk menyimpan rekod yang sedang dimasukkan atau
+dikemaskini *  Butang hanya dipaparkan semasa di dalam edit mode Simpan &
+Hantar     *  Untuk menyimpan rekod yang sedang dimasukkan dan menghantar
+e-mel notifikasi kepada pengguna yang berkenaan *  Butang hanya dipaparkan
+semasa dalam edit mode Ubah                *  Menukar mode rekod daripada
+read mode kepada edit mode *  Butang ini hanya dipaparkan semasa di dalam
+read mode Hapus               *  Untuk menghapuskan rekod tempahan. * 
+Mesej "Adakah anda pasti untuk menghapuskan rekod ini?" akan dipaparkan.
+Jika pengguna memilih "Y" rekod   akan dihapuskan, jika pengguna memilih "N" rekod tidak dihapuskan. Skrin
+sebelumnya akan dipaparkan. *  Butang hanya dipaparkan semasa di dalam read
+mode *  Hanya pengguna yang mempunyai role [Admin Bilik], [Admin Kenderaan]
+dan [Approver SMaT] dan [Juruteknik] yang boleh melakukan tugas ini Cetak  
+            *  Mencetak rekod yang sedang dipaparkan. Butang hanya
+dipaparkan semasa dalam read mode *  Mencetak paparan/view yang sedang
+dipaparkan Tutup               *  Kembali ke skrin sebelumnya Keluar       
+      *  Keluar ke skrin sebelumnya Jadual 1: Butang Asas INTEXS SDN BHD   
+                                                                           
+3  Panduan Pengguna                                              Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+3.0  KAWALAN KESELAMATAN SISTEM Modul ini membenarkan 5 jenis pengguna yang
+mempunyai fungsi dan tugas yang berbeza. Berikut adalah perincian bagi
+setiap tugas:   Role                                      Tugas [PSM]                     
+                  *  Memasukkan rekod kursus dan peperiksaan *  Memasukkan
+rekod peperiksaan PTK, peperiksaan jabatan dan peperiksaan perkhidmatan
+awam bagi setiap kakitangan KWP. *  Meluluskan permohonan kursus kakitangan
+KWP. *  Mencalonkan kakitangan KWP untuk berkursus. *  Menghantar format
+laporan kepada agensi *  Menerima laporan yang. dihantar daripada agensi. *
+ Mengemaskini semua rekod. *  Menghapuskan semua rekod. *  Mencari, melihat
+dan mencetak semua rekod. [Penganjur]                                  * 
+Memasukkan senarai rekod kursus bagi kursus anjuran unit sendiri * 
+Mencalonkan kakitangan unit sendiri untuk berkusus [Pemohon]               
+                    *  Memohon untuk berkursus *  Membuat perancangan
+kursus *  Mencari, melihat dan mencetak rekod permohonan kursus, pencalonan
+kursus, perancangan kursus dan laporan penilaian kursus sendiri. [Ketua
+Unit]                                 *  Meluluskan permohonan kursus   atau pencalonan kursus kakitangan dibawah unitnya. [DBKL], [PL], [PPJ],
+[PTGKL],                *  Menerima e-mel notifikasi untuk menghantar
+laporan [PTGPPJ], [PTGPL], [MAN], [UJKT]                    
+kursus/peperiksaan. *  Memasukkan maklumat dan laporan kursus/peperiksaan
+agensi. *  Penghantaran e-mel notifikasi INTEXS SDN BHD                    
+                                                                4  Panduan
+Pengguna                                    Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+oleh sistem kepada PSM KWP tentang laporan yang dihantar. *  Mencetak,
+mencari dan melihat rekod maklumat laporan bagi agensi masing-masing Jadual
+2: Capaian Sistem INTEXS SDN BHD                                           
+                                5  Panduan Pengguna                       
+                    Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+  4.0     KAEDAH CAPAIAN SISTEM Langkah-langkah untuk mencapai Sistem
+e-Latihan. 1.      Lancarkan (launch) perisian `Internet Explorer' 2.     
+Pada ruang `Address' masukkan "http://coeapp.kwp.gov.my" dan klik `Go' atau
+tekan `Enter' pada papan kekunci Gambarajah 1: Pelayar web: Memasukkan
+alamat web bagi Sistem COE 3.      Skrin untuk memasukkan ID Pengguna dan
+kata laluan akan dipaparkan Gambarajah 2: Login Skrin 4.      Masukkan ID
+Pengguna dan kata laluan. Jika ID Pengguna dan kata laluan yang dimasukkan
+tidak betul mesej berikut akan dipaparkan INTEXS SDN BHD                   
+                                                             6  Panduan
+Pengguna                                          Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 3: Mesej ralat: ID atau kata laluan salah 5.     Jika  ID 
+pengguna  dan  kata  laluan  yang  dimasukkan  betul,  menu  utama Sistem
+'Common Office Environment (COE)' akan dipaparkan   Gambarajah 4: Menu Utama COE 6.     Klik pautan e-Latihan 7.     Menu
+utama e-Latihan akan dipaparkan INTEXS SDN BHD                             
+                                                    7  Panduan Pengguna   
+                                          Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+5.0     MENU UTAMA SISTEM Menu  yang  akan  diperolehi  oleh  seseorang 
+pengguna  adalah  bergantung kepada role masing-masing. Berikut adalah role
+yang terdapat di dalam Sistem e-Latihan: i.  Kakitangan Unit PSM ([PSM])
+ii.  Penganjur kursus bagi unit-unit di dalam KWP ([Penganjur]) iii.  Semua
+ kakitangan  KWP  yang  ingin  memohon  kursus ([Pemohon]) iv.  Ketua Unit
+([Ketua Unit]) v.  Agensi  ([DBKL],  [PPJ],  [PL],  [PTGKL],  [PTGPPJ], 
+[PTGPL],  [MAN], [UJKT]) Gambarajah 5: Skrin bagi Unit PSM INTEXS SDN BHD  
+                                                                           
+   8  Panduan Pengguna                                      Sistem `Common
+Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 6: Skrin bagi Unit-unit Penganjur INTEXS SDN BHD                
+                                                         9  Panduan
+Pengguna                                            Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+6.0      JADUAL KURSUS DAN PEPERIKSAAN Pegawai  di  dalam  Unit  PSM  akan 
+menyelenggara  skrin  ini.  Skrin  ini  bertujuan untuk  memasukkan 
+maklumat  semua  jenis  kursus  atau  peperiksaan  yang ditawarkan kepada
+pegawai dan kakitangan KWP. 6.1  Kemasukan Rekod i.  Daripada  menu  utama 
+Sistem  e-Latihan,  klik  pautan  `Jadual  Kursus  dan Peperiksaan' yang
+berada di bawah tajuk `Kemasukan Rekod'. ii.  Skrin untuk memasukkan
+maklumat profil bilik akan dipaparkan. Gambarajah 7: Skrin kemasukan
+maklumat kursus atau peperiksaan iii.  Medan yang bertanda * mesti diisi.
+iv.  Masukkan maklumat yang diperlukan.   v.  Klik  butang  `Masukkan  Tarikh  Kursus'  (butang  ini  hanya  akan 
+kelihatan  bila pengguna memilih "Kursus" di medan `Jenis'). INTEXS SDN BHD
+                                                                           
+  10  Panduan Pengguna                                             Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+vi.  Jika  pengguna  memilih  "Peperiksaan"  dimedan  `Jenis',  butang 
+`Masukkan Tarikh  Peperiksaan'  akan  kelihatan.  Klik  butang  ini  untuk 
+memasukkan  tarikh peperiksaan. vii.  Tetingkap  `Tarikh  Kursus  Sebenar' 
+atau  `Tarikh  Peperiksaan  Sebenar' (bergantung kepada pilihan di medan
+`Jenis') akan dipaparkan. Gambarajah 8: Skrin untuk memasukkan tarikh
+kursus Gambarajah 9: Skrin untuk memasukkan tarikh peperiksaan viii.   Klik
+ butang  `Simpan'  untuk  menyimpan  rekod  di  skrin  `Tarikh  Kursus 
+Sebenar' atau di skrin `Tarikh Peperiksaan Sebenar'. ix.  Rekod akan
+bertukar kepada read mode.   x.  Klik  butang  `Tutup'.  Skrin  akan  ditutup  dan  rekod  yang 
+dimasukkan  tadi  akan dijana di dalam bentuk jadual di skrin Jadual Kursus
+tadi. INTEXS SDN BHD                                                       
+                         11  Panduan Pengguna                             
+               Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 10: Jadual bagi tarikh kursus xi.  Di medan `Sebarkan?' klik: o 
+"Tidak" ­ butang `Simpan' akan terpapar. o  "Ya" ­ butang `Simpan & Sebar'
+akan terpapar. xii.  Jika pengguna memilih "Ya", checkbox "Unit" dan
+"Individu" akan terpapar. Gambarajah 11: Medan untuk memilih kakitangan
+untuk penyebaran kursus yang dimasukkan xiii.  Klik  butang  `Simpan  & 
+Sebar'.  Rekod  disimpan  dan  e-mel  notifikasi  akan dihantar kepada
+kakitangan yang dipilih. Mesej penghantaran e-mel notifikasi akan
+dipaparkan. Gambarajah 12: Mesej penyebaran maklumat kursus baru 6.2 
+Kemaskini Rekod   i.  Daripada  menu  utama  Sistem  e-Latihan,  klik  mana-mana  pautan  di
+ bawah tajuk `Senarai/Laporan'. INTEXS SDN BHD                             
+                                                   12  Panduan Pengguna   
+                                           Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 13: Senarai view Jadual Kursus ii.  Senarai jadual kursus akan
+dipaparkan. Gambarajah 14: Skrin Senarai jadual iii.  Klik rekod yang
+hendak dikemaskini. iv.  Rekod akan dipaparkan di dalam read mode. v.  Klik
+butang `Ubah'. Rekod akan ditukar kepada edit mode. vi.  Lakukan pindaan
+yang dikehendaki. vii.  Klik butang `Simpan' atau `Simpan &  Sebar', rekod
+akan disimpan dan mesej penyebaran kursus yang baru dimasukkan akan
+dipaparkan. 6.3       Hapuskan Rekod i.  Daripada  menu  utama  Sistem 
+e-Latihan,  klik  mana-mana  pautan  di  bawah tajuk `Senarai/Laporan'.
+INTEXS SDN BHD                                                             
+                   13    Panduan Pengguna                                                    
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+ii.  Senarai jadual kursus akan dipaparkan. iii.  Klik rekod yang hendak
+dihapuskan. iv.  Rekod akan dipaparkan di dalam read mode. v.  Klik butang
+`Hapus'. 6.4       Kakitangan menerima e-mel notifikasi maklumat kursus
+baru. i.  Melalui  `Inbox'  e-mel  kakitangan  yang  dihantar  tadi,  klik 
+e-mel  yang mengandungi notifikasi kursus baru. Gambarajah 15: Emel
+notifikasi penyebaran kursus baru ii.  Klik emel berkenaan. Kandungan emel
+berkenaan akan dipaparkan. Gambarajah 16: Kandungan emel notifikasi
+penyebaran kursus baru iii.  Klik  link  yang  berada  di  bawah  tajuk 
+`Buka  kursus  dengan  klik  pada  link  di bawah'. iv.  Rekod akan
+dipaparkan di dalam read mode. v.  Klik butang `Tutup' untuk menutup skrin.
+6.5       Paparan Jadual Kursus dan Peperiksaan i.  Rekod  kursus  yang 
+telah  dimasukkan  boleh  dicapai  semula  melalui  paparan   atau view. Terdapat 2 view/paparan iaitu: Bil.          Nama Paparan
+(view)                          Keterangan 1              Jadual
+Keseluruhan            *  Memaparkan senarai kursus yang disusun mengikut
+tajuk kursus 2              Mengikut Klasifikasi          *  Memaparkan
+senarai kursus yang disusun mengiktut klasifikasi kursus. INTEXS SDN BHD   
+                                                                           
+         14  Panduan Pengguna                                             
+         Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Bil.          Nama Paparan (view)                           Keterangan 3   
+          Mengikut Kategori             *  Memaparkan senarai kursus yang
+disusun mengiktut kategori kursus. 4              Kursus Anjuran Syarikat  
+    *  Memaparkan senarai kursus yang Swasta                           
+dianjurkan oleh syarikat swasta. 5              Kursus Anjuran             
+  *  Memaparkan senarai kursus yang   INTAN/JPA/Institusi               dianjurkan oleh sama ada INTAN, JPA
+Latihan Awam                      atau Institusi Latihan Awam. 6           
+  Senarai Kursus                *  Memaparkan senarai kursus yang Mengikut
+Bulan dan                disusun mengikut bulan dan kos. Kos 7             
+Jadual PTK Mengikut           *  Memaparkan senarai jadual PTK yang Tahun  
+                          disusun mengikut tahun. Jadual 3: View Senarai
+Bilik Gambarajah 17: Senarai keseluruhan kursus dan peperiksaan INTEXS SDN
+BHD                                                                        
+                    15  Panduan Pengguna                                  
+      Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 18: Jadual kursus dan peperiksaan mengikut klasifikasi
+Gambarajah 19: Jadual kursus dan peperiksaan mengikut kategori Gambarajah
+20: Jadual kursus dan peperiksaan yang dianjurkan oleh syarikat swasta
+INTEXS SDN BHD                                                             
+               16    Panduan Pengguna                                               Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 21: Jadual kursus dan peperiksaan yang dianjurkan oleh
+INTAN/JPA/Institusi Latihan Awam Gambarajah 22: Jadual kursus dan
+peperiksaan mengikut tahun, bulan dan kos Gambarajah 23: Jadual PTK
+mengikut tahun INTEXS SDN BHD                                              
+                                   17  Panduan Pengguna                   
+                         Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+7.0       PERANCANGAN KURSUS TAHUNAN KAKITANGAN 7.1  Membuat Perancangan i.
+ Semua  kakitangan  boleh  membuat  perancangan  kursus  tahunan  untuk 
+diri sendiri. ii.  Daripada  menu  utama  Sistem  e-Latihan,  klik  pautan 
+`Perancangan  Kursus Tahunan Kakitangan' yang berada di bawah tajuk
+Kemasukan Rekod. iii.  Skrin untuk memasukkan perancangan kursus akan
+dipaparkan.   Gambarajah 24: Skrin Perancangan kursus individu iv.  Klik pada kursus
+yang diingini. v.  Tetingkap untuk memilih tarikh kursus yang diingini akan
+dipaparkan. INTEXS SDN BHD                                                 
+                                18  Panduan Pengguna                      
+                      Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 25: Klik pilihan tarikh yang diingini di medan `Rancang' vi. 
+Klik  butang  `Simpan'  untuk  menyimpan  rekod.  Kemudian  klik  butang 
+`Tutup' untuk menutup skrin dan kembali ke skrin asal. 7.2  Kakitangan KWP
+melihat kembali perancangan yang telah dibuat. i.  Daripada  menu  utama 
+Sistem  e-Latihan,  klik  (expand)  `Perancangan  Kursus Individu' yang
+berada di bawah tajuk `Senarai/Laporan'. ii.  Klik `Perancangan Kursus
+Saya'. iii.  Rekod untuk kakitangan berkenaan akan dipaparkan. Gambarajah
+26: Rekod perancangan kursus individu 7.3       Kakitangan Unit PSM melihat
+semua perancangan kursus yang telah   dibuat i.  Daripada  menu  utama  Sistem  e-Latihan,  klik  (expand) 
+`Perancangan  Kursus Individu' yang berada di bawah tajuk
+`Senarai/Laporan'. ii.  Klik `Mengikut Nama'. iii.  Senarai rekod
+perancangan kursus yang telah dibuat dipaparkan. Gambarajah 27: Senarai
+perancangan individu untuk semua kakitangan INTEXS SDN BHD                 
+                                                              19  Panduan
+Pengguna                                                    Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+7.4       Hapuskan Rekod i.  Daripada  menu  utama  Sistem  e-Latihan, 
+klik  (expand)  `Perancangan  Kursus Individu' yang berada di bawah tajuk
+`Senarai/Laporan' ii.  Klik `Mengikut Nama'. iii.  Klik rekod yang hendak
+dihapuskan. iv.  Rekod akan dipaparkan di dalam read mode. v.  Klik butang
+`Hapus'. vi.  Mesej meminta pengesahan untuk menghapuskan rekod akan
+dipaparkan. vii.  Klik OK untuk menghapuskan rekod.   7.5       Senarai Paparan i.  Rekod  `Perancangan  Kursus  Individu'  yang
+ telah  dimasukkan  boleh  dicapai semula melalui paparan atau view. ii. 
+Berikut adalah senarai paparan untuk Perancangan Kursus Individu. Bil.     
+    Nama Paparan (view)                           Keterangan 1             
+Mengikut Nama               *  Memaparkan senarai perancangan kursus yang
+telah dibuat oleh kakitangan KWP yang disusun mengikut nama. *  Senarai ini
+hanya boleh dilihat oleh kakitangan Unit PSM. 2              Mengikut
+Bidang             *  Memaparkan senarai perancangan kursus yang telah
+dibuat oleh kakitangan KWP yang disusun mengikut bidang kursus yang telah
+dirancang. *  Senarai ini hanya boleh dilihat oleh kakitangan Unit PSM. 3  
+           Perancangan Kursus          *  Memaparkan senarai rekod sendiri
+Saya                           perancangan kursus yang telah dibuat. INTEXS
+SDN BHD                                                                    
+                    20  Panduan Pengguna                                  
+               Sistem `Common Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Bil.          Nama Paparan (view)                       Keterangan * 
+Senarai ini boleh dilihat oleh semua kakitangan KWP. Jadual 4: Senarai View
+Perancangan Kursus Individu Gambarajah 28: Senarai perancangan kursus
+individu mengikut bidang kursus INTEXS SDN BHD                             
+                                                      21  Panduan Pengguna
+                                                Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+8.0       KURSUS ANJURAN UNIT LAIN 8.1  Kemasukan Rekod i.  Kakitangan Unit
+PSM dan Penganjur dari Unit-unit lain boleh memasukkan rekod kehadiran
+kursus bagi kakitangan. ii.  Tujuan  skrin  ini  adalah  untuk  merekod 
+kehadiran  kursus  bagi  kakitangan- kakitangan yang telah menghadiri
+kursus di masa lalu (secara manual) iii.  Daripada menu  utama  Sistem
+e-Latihan, klik pautan `Kursus  Anjuran Unit Lain'   yang berada di bawah tajuk `Kemasukan Rekod'. iv.  Skrin  untuk 
+memasukkan  rekod  kehadiran  kursus  bagi  kakitangan  yang  telah
+menghadiri kursus akan dipaparkan. Gambarajah 29: Skrin Kursus Anjuran Unit
+Lain v.  Medan yang bertanda * mesti diisi. vi.  Di  medan  `Nama  Kursus',
+ pilihan  `Kursus  Lain'  boleh  dibuat  jika  nama  kursus yang  ingin 
+dimasukkan  tidak  terdapat  di  dalam  senarai.  Satu  medan tambahan akan
+dipaparkan untuk pengguna memasukkan kursus lain. INTEXS SDN BHD           
+                                                                       22 
+Panduan Pengguna                                                  Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 30: Pilihan kursus lain vii.  Medan Bil hari akan dipaparkan
+secara automatik jika pengguna memasukkan tarikh di medan `Dari' dan
+`Hingga'. Gambarajah 31: Medan Bil Hari akan terpapar secara automatik
+viii.  Pilih `Bahagian' dan `Unit' untuk memilih peserta kursus. Pilih nama
+peserta dan   kemudian klik butang   untuk memilih peserta. Gambarajah 32: Pilihan
+peserta ix.  Klik butang `Simpan' untuk menyimpan maklumat. x.  Rekod akan
+bertukar kepada Read Mode. xi.  Klik butang `Tutup' untuk melihat senarai
+yang telah dimasukkan. 8.2        Penganjur/Kakitangan Unit PSM melihat
+kembali senarai yang telah dimasukkan. i.  Daripada  menu  utama  Sistem 
+e-Latihan,  klik  (expand)  `Senarai  Peserta  Kursus Anjuran Unit Lain'
+yang berada di bawah tajuk `Senarai/Laporan'. ii.  Klik `Mengikut Unit'.
+INTEXS SDN BHD                                                             
+                        23  Panduan Pengguna                              
+                 Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+iii.  Senarai rekod yang telah dimasukkan akan dipaparkan. Gambarajah 33:
+Senarai rekod peserta kursus anjuran unit lain iv.  Klik pada rekod yang
+ingin dilihat. v.  Klik butang `Tutup' untuk menutup skrin dan kembali
+kepada senarai.   8.3       Hapuskan Rekod i.  Daripada  menu  utama  Sistem  e-Latihan, 
+klik  (expand)  `Senarai  Peserta  Kursus Anjuran Unit Lain' yang berada di
+bawah tajuk `Senarai/Laporan'. ii.  Klik `Mengikut Unit' iii.  Senarai
+rekod  akan dipaparkan. iv.  Klik rekod yang hendak dihapuskan. v.  Rekod
+akan dipaparkan di dalam read mode. vi.  Klik butang `Hapus'. vii.  Mesej
+pengesahan untuk menghapuskan rekod akan dipaparkan. viii.  Klik OK untuk
+menghapuskan rekod. 8.4       Senarai Paparan i.  Rekod  Senarai  peserta 
+kursus  anjuran  unit  lain  boleh  dicapai  semula  melalui paparan atau
+view. ii.  Berikut adalah senarai paparan. Bil.          Nama Paparan
+(view)                   Keterangan 1              Mengikut Unit          
+*  Memaparkan senarai peserta kursus anjuran unit lain yang disusun
+mengiktu INTEXS SDN BHD                                                    
+                                 24  Panduan Pengguna                     
+                             Sistem `Common Office Environment' Modul:
+e-Latihan   ______________________________________________________________________________
+Bil.          Nama Paparan (view)                         Keterangan Unit
+peserta. Jadual 5: Senarai View peserta kursus anjuran unit lain INTEXS SDN
+BHD                                                                        
+             25  Panduan Pengguna                                         
+    Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+9.0       LAPORAN JPA 9.1  Kemasukan Rekod i.  Hanya kakitangan Unit PSM
+yang boleh memasukkan rekod laporan JPA. ii.  Melalui  skrin  ini, 
+pengguna  boleh  melampirkan  2  jenis  laporan  iaitu  Laporan Penilaian
+Kompetensi dan Perancangan dan Perlaksanaan PTK. iii.  Daripada  menu 
+utama  Sistem  e-Latihan,  klik  pautan  `Laporan  JPA'  yang berada di
+bawah tajuk `Kemasukan Rekod'. iv.  Skrin untuk memasukkan rekod kedua-dua
+jenis laporan di atas dipaparkan. Gambarajah 34: Skrin Laporan JPA v.  Klik
+butang `Browse' untuk melampirkan laporan.   vi.  Klik butang `Simpan'. Rekod akan bertukar kepada Read mode. vii. 
+Klik butang `Tutup' untuk melihat senarai. Gambarajah 35: Senarai laporan
+JPA viii.  Klik mana-mana rekod untuk melihat laporan. 9.2  Kakitangan Unit
+PSM melihat kembali rekod yang telah dimasukkan. i.  Daripada  menu  utama 
+Sistem  e-Latihan,  klik  (expand)  `Laporan  Kursus  -  PSM' yang berada
+di bawah tajuk `Senarai/Laporan'. INTEXS SDN BHD                           
+                                                      26  Panduan Pengguna
+                                                   Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+ii.  Klik `Laporan JPA'. iii.  Senarai rekod laporan JPA akan dipaparkan.
+iv.  Klik mana-mana rekod untuk melihat laporan. 9.3       Hapuskan Rekod
+i.  Daripada  menu  utama  Sistem  e-Latihan,  klik  (expand)  `Laporan 
+Kursus  -  PSM' yang berada di bawah tajuk `Senarai/Laporan' ii.  Klik
+`Laporan JPA'. Senarai laporan JPA yang telah direkod akan dipaparkan.   iii.  Klik mana-mana rekod yang hendak dihapuskan. iv.  Rekod akan
+dipaparkan di dalam read mode. v.  Klik butang `Hapus'. vi.  Mesej
+pengesahan untuk menghapuskan rekod akan dipaparkan. vii.  Klik OK untuk
+menghapuskan rekod. 9.4       Senarai Paparan i.  Rekod  Laporan  JPA  yang
+ telah  dimasukkan  boleh  dicapai  semula  melalui paparan atau view. ii. 
+Berikut adalah senarai paparan. Bil.          Nama Paparan (view)          
+            Keterangan 1              Laporan JPA              * 
+Memaparkan senarai laporan JPA yang telah dimasukkan. Jadual 6: Senarai
+View laporan JPA INTEXS SDN BHD                                            
+                                         27  Panduan Pengguna             
+                                  Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+10.0  PEPERIKSAAN/KURSUS/PENILAIAN PTK 10.1  Kemasukan Rekod i.  Skrin ini
+bertujuan untuk membolehkan kakitangan Unit PSM memasukkan rekod   peperiksaan, kursus atau penilaian PTK bagi setiap kakitangan KWP. ii. 
+Daripada           menu     utama          Sistem        e-Latihan,    
+klik     pautan `Peperiksaan/Kursus/Penilaian  PTK'  yang  berada  di 
+bawah  tajuk  `Kemasukan Rekod'. iii.  Skrin untuk memasukkan rekod akan
+dipaparkan. Gambarajah 36: Kemasukan rekod peperiksaan, kursus atau
+penilaian PTK iv.  Medan yang bertanda * mesti diisi. INTEXS SDN BHD       
+                                                                         
+28  Panduan Pengguna                                            Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+v.  Pilih  nama  kakitangan  di  medan  `Nama  Pemohon'.  Medan  `No.K/P',
+`Kumpulan'  dan  `Klasifikasi  Perkhidmatan  &  Gred'  akan  terpapar 
+secara automatik. vi.  Isi kesemua maklumat yang berkenaan. vii.  Klik 
+butang  `Simpan'  untuk  menyimpan  maklumat.  Rekod  akan  bertukar kepada
+read mode. viii.  Klik butang `Tutup' untuk membuka senarai rekod.   Gambarajah 37: Senarai rekod peperiksaan, kursus atau penilaian PTK 10.2 
+Kakitangan Unit PSM melihat kembali rekod yang telah dimasukkan. i. 
+Daripada  menu  utama  Sistem  e-Latihan,  klik  (expand)  `Laporan  Kursus
+ -  PSM' yang berada di bawah tajuk `Senarai/Laporan'. ii.  Klik "Laporan
+Peperiksaan PTK' iii.  Senarai rekod akan dipaparkan iv.  Klik rekod yang
+hendak dilihat. v.  Klik butang `Tutup' untuk menutup skrin dan kembali
+kepada senarai. 10.3  Hapuskan Rekod i.  Daripada  menu  utama  Sistem 
+e-Latihan,  klik  (expand)  `Laporan  Kursus  -  PSM' yang berada di bawah
+tajuk `Senarai/Laporan' ii.  Klik "Laporan Peperiksaan PTK' iii.  Senarai
+rekod akan dipaparkan iv.  Klik rekod yang hendak dihapuskan. v.  Klik
+butang `Hapus' untuk menghapuskan rekod. vi.  Mesej pengesahan untuk
+menghapuskan rekod akan dipaparkan. INTEXS SDN BHD                         
+                                                    29  Panduan Pengguna  
+                                                  Sistem `Common Office
+Environment'   Modul: e-Latihan
+______________________________________________________________________________
+vii.  Klik OK untuk menghapuskan rekod. 10.4  Senarai Paparan i.  Rekod 
+peperiksaan,  kursus  atau  penilaian  PTK  boleh  dicapai  semula  melalui
+paparan atau view. ii.  Berikut adalah senarai paparan. Bil.          Nama
+Paparan (view)                          Keterangan 1                Laporan
+Peperiksaan         *  Memaparkan senarai rekod PTK                        
+   kakitangan untuk peperiksaan, kursus atau penialain PTK. Jadual 7:
+Senarai View laporan peperiksaan PTK INTEXS SDN BHD                        
+                                                              30  Panduan
+Pengguna                                        Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+11.0  PEPERIKSAAN PERKHIDMATAN AWAM/PEPERIKSAAN JABATAN 11.1  Kemasukan
+Rekod i.  Skrin ini bertujuan untuk membolehkan kakitangan Unit PSM
+memasukkan rekod   peperiksaan  perkhidmatan  awam  atau  peperiksaan  jabatan  bagi  setiap
+kakitangan KWP. ii.  Daripada  menu  utama  Sistem  e-Latihan,  klik 
+pautan  `Peperiksaan Perkhidmatan  Awam/Peperiksaan  Jabatan'  yang  berada
+ di  bawah  tajuk `Kemasukan Rekod'. iii.  Skrin untuk memasukkan rekod
+akan dipaparkan. Gambarajah 38: Kemasukan rekod peperiksaan perkhidmatan
+awam atau peperiksaan jabatan iv.  Medan yang bertanda * mesti diisi. v. 
+Pilih  nama  kakitangan  di  medan  `Nama  Pemohon'.  Medan  `No.K/P',
+`Kumpulan'  dan  `Klasifikasi  Perkhidmatan  &  Gred'  akan  terpapar 
+secara automatik. vi.  Isi kesemua maklumat yang berkenaan. vii.  Klik 
+butang  `Simpan'  untuk  menyimpan  maklumat.  Rekod  akan  bertukar kepada
+read mode. viii.  Klik butang `Tutup' untuk membuka senarai rekod. INTEXS
+SDN BHD                                                                    
+     31  Panduan Pengguna                                           
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+  Gambarajah 39: Senarai rekod peperiksaan perkhidmatan awam atau
+peperiksaan jabatan 11.2  Kakitangan Unit PSM melihat kembali rekod yang
+telah dimasukkan. i.  Daripada  menu  utama  Sistem  e-Latihan,  klik 
+(expand)  `Laporan  Kursus  -  PSM' yang berada di bawah tajuk
+`Senarai/Laporan'. ii.  Klik "Laporan Peperiksaan Jabatan' atau `Laporan
+Peperiksaan Perkhidmatan Awam' iii.  Senarai rekod akan dipaparkan iv. 
+Klik rekod yang hendak dilihat. v.  Klik butang `Tutup' untuk menutup skrin
+dan kembali kepada senarai. 11.3  Hapuskan Rekod i.  Daripada  menu  utama 
+Sistem  e-Latihan,  klik  (expand)  `Laporan  Kursus  -  PSM' yang berada
+di bawah tajuk `Senarai/Laporan' ii.  Klik "Laporan Peperiksaan Jabatan'
+atau `Laporan Peperiksaan Perkhidmatan Awam' iii.  Senarai rekod akan
+dipaparkan iv.  Klik rekod yang hendak dihapuskan. v.  Klik butang `Hapus'
+untuk menghapuskan rekod. vi.  Mesej pengesahan untuk menghapuskan rekod
+akan dipaparkan. vii.  Klik OK untuk menghapuskan rekod. 11.4  Senarai
+Paparan i.  Rekod  peperiksaan  perkhidmatan  awam  atau  peperiksaan 
+jabatan  boleh   dicapai semula melalui paparan atau view. INTEXS SDN BHD                  
+                                                            32  Panduan
+Pengguna                                                 Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+ii.  Berikut adalah senarai paparan. Bil.          Nama Paparan (view)     
+                Keterangan 1                 Laporan Peperiksaan     * 
+Memaparkan senarai rekod Perkhidmatan Awam          kakitangan untuk
+peperiksaan perkhidmatan awam. 2                 Laporan Peperiksaan     * 
+Memaparkan senarai rekod Jabatan                    kakitangan untuk
+peperiksaan jabatan Jadual 8: Senarai View laporan peperiksaan perkhidmatan
+awam dan peperiksaan jabatan INTEXS SDN BHD                                
+                                                  33  Panduan Pengguna    
+                                       Sistem `Common Office Environment'
+Modul: e-Latihan
+______________________________________________________________________________
+  12.0  PERMOHONAN KURSUS 12.1  Mohon Berkursus i.  Skrin  ini  bertujuan 
+untuk  membolehkan  kakitangan  KWP  memohon  untuk menghadiri kursus. ii. 
+Daripada menu utama Sistem e-Latihan, klik pautan `Permohonan Kursus' yang
+berada di bawah tajuk `Kursus/Latihan Online'. iii.  Skrin permohonan
+kursus akan dipaparkan. Gambarajah 40: Permohonan menghadiri kursus ­
+Butiran pemohon iv.  Medan yang bertanda * mesti diisi. v.  Medan  `Nama 
+Pemohon',  `Jawatan',  `Bahagian'  dan  `Unit'  akan  terpapar secara
+automatik. vi.  Pilih  tajuk  kursus  di  medan  `Tajuk  Kursus'.  Medan 
+`Penganjur',  `Tempat  Kursus' dan `Bayaran' dipaparkan secara automatik.
+vii.  Pilih tarikh di medan `Tarikh' viii.  Klik butang `Hantar' untuk
+menyimpan maklumat dan seterusnya menghantar permhonan kepada Unit PSM.
+INTEXS SDN BHD                                                             
+                   34  Panduan Pengguna                                   
+        Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+  ix.  Mesej pengesahan penghantaran permohonan akan dipaparkan. Gambarajah
+41: Mesej penghantaran emel notifikasi kepada kakitangan Unit PSM 12.2 
+Pemohon melihat semula permohonan yang telah dihantar. i.  Daripada  menu 
+utama  Sistem  e-Latihan,  klik  (expand)  `Permohonan  Kursus' yang berada
+di bawah tajuk `Senarai/Laporan'. ii.  Klik "Permohonan Kursus Saya'. iii. 
+Senarai rekod akan dipaparkan. Gambarajah 42: Senarai permohonan kursus
+kakitangan ­ permohonan sendiri iv.  Klik rekod yang hendak dilihat. v. 
+Klik butang `Tutup' untuk menutup skrin dan kembali kepada senarai. 12.3 
+Kakitangan Unit PSM menerima emel notifikasi permohonan kursus i.  Melalui
+`Inbox' kakitangan Unit PSM, klik emel yang bertajuk seperti di bawah
+Gambarajah 43: Emel notifikasi permohonan menghadiri kursus ii.  Klik emel
+berkenaan iii.  Kandungan emel berkenaan akan dipaparkan. INTEXS SDN BHD   
+                                                                           
+  35  Panduan Pengguna                                              
+Sistem `Common Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 44: Kandungan emel notifikasi permohonan kursus iv.  Klik pada
+link di dalam `body' emel di atas. v.  Rekod permohonan kursus kakitangan
+berkenaan akan dipaparkan. vi.  Klik butang `Tutup' untuk menutup skrin
+rekod. vii.  Untuk mengambil terhadap permohonan berkenaan ikuti langkah di
+bawah 12.4  Unit PSM mengambil tindakan terhadap permohonan kursus i. 
+Daripada  menu  utama  Sistem  e-Latihan,  klik  (expand)  `Permohonan 
+Kursus' yang berada di bawah tajuk `Senarai/Laporan'. ii.  Klik `Untuk
+Tindakan PSM' iii.  Klik  rekod  yang  hendak  diambil  tindakan.  Rekod 
+dipaparkan,  klik  butang `Ubah' untuk mengemaskini permohonan. iv.  Di
+seksyen `PSM ­ Status Kelulusan' pilih status permohonan. Gambarajah 45:
+Permohonan Kursus - Status Kelulusan PSM v.  Klik butang `Simpan & Hantar'
+untuk menyimpan rekod dan menghantar emel notifikasi kepada pemohon dan
+Ketua Unit pemohon. vi.  Mesej pengesahan rekod dihantar akan dipaparkan
+seperti di bawah   Gambarajah 46: Mesej pengesahan penghantaran emel notifikasi INTEXS SDN
+BHD                                                                        
+            36  Panduan Pengguna                                          
+        Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+12.5  Ketua Unit menerima emel notifikasi dan mengambil tindakan i. 
+Melalui  `Inbox'  Ketua  Unit,  klik  emel  notifikasi  permohonan  kursus 
+yang  telah diluluskan oleh Unit PSM. Gambarajah 47: Emel notifikasi
+permohonan kursus ­ pengesahan Ketua Unit ii.  Rekod permohonan akan
+dibuka. Klik pada link yang terdapat di dalam `body' emel berkenaan.
+Gambarajah 48: Kandungan emel notifikasi permohonan kursus ­ pengesahan
+Ketua Unit iii.  Rekod  permohonan  kursus  akan  dipaparkan.  Klik  butang
+ `Ubah'  untuk mengemaskini status. Gambarajah 49: Permohonan kursus -
+Pengesahan Ketua Unit iv.  Masukkan maklumat kemudian klik butang `Simpan &
+Hantar'. v.  Mesej pengesahan penghantaran rekod akan dipaparkan.   Gambarajah 50: Mesej pengesahan penghantaran emel notifikasi kepada Unit
+PSM ­ selepas kelulusan Ketua Unit INTEXS SDN BHD                          
+                                                          37  Panduan
+Pengguna                                                     Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+12.6  Unit PSM mengemaskini Status Kehadiran Kakitangan Selepas Kursus i. 
+Melalui `Inbox' kakitangan Unit PSM, klik emel yang bertajuk seperti di
+bawah. Gambarajah 51: Emel notifikasi pengesahan oleh Ketua Unit ii.  Klik 
+emel  berkenaan.  Kanduangan  emel  akan  dipaparkan.  Kemudian  klik
+butang `Ubah' untuk mengemaskini rekod. Kemudian di seksyen `PSM ­ Status
+Kehadiran Selepas Kursus', pilih status kehadiran. Gambarajah 52:
+Permohonan Kursus ­ Status kehadiran Selepas Kursus iii.  Klik butang
+`Simpan' untuk menyimpan maklumat. 12.7  Senarai Paparan i.  Rekod
+permohonan kursus boleh dicapai semula melalui paparan atau view.   ii.  Berikut adalah senarai paparan. Bil.            Nama Paparan (view)  
+                     Keterangan 1                  Mengikut Nama           
+    *  Memaparkan senarai rekod permohonan kursus yang disusun mengikut
+nama. 2                  Untuk Tindakan PSM           *  Memaparkan senarai
+rekod permohonan kursus mengikut status permohonan. *  View ini hanya boleh
+dilihat oleh kakitangan Unit PSM 3                  Untuk Tindakan Ketua   
+     *  Memaparkan senarai rekod Unit                            permohonan
+kursus mengikut status permohonan. *  View ini hanya boleh dilihat oleh
+Ketua INTEXS SDN BHD                                                       
+                                  38  Panduan Pengguna                    
+                           Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+Bil.     Nama Paparan (view)                          Keterangan Unit. 4   
+         Mengikut Kursus              *  Memaparkan senarai rekod   permohonan kursus yang disusun mengikut kursus 5             Kursus
+Anjuran Syarikat      *  Memaparkan senarai rekod Swasta                   
+     permohonan kursus yang dianjurkan oleh syarikat swasta 6            
+Kursus Anjuran               *  Memaparkan senarai rekod
+INTAN/JPA/Institusi            permohonan kursus yang dianjurkan Latihan
+Awam                   oleh anjuran INTAN/JPA/Institusi Latihan Awam. 7    
+        Mengikut Tahun               *  Memaparkan senarai rekod permohonan
+kursus mengikut tahun Jadual 9: Senarai View permohonan kursus INTEXS SDN
+BHD                                                                        
+          39  Panduan Pengguna                                          
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+13.0  KURSUS DALAMAN 13.1  Pencalonan Kursus i.  Skrin  ini  bertujuan 
+untuk  membolehkan  kakitangan  Unit  PSM  mencalonkan kakitangan KWP untuk
+menghadiri kursus. ii.  Daripada  menu  utama  Sistem  e-Latihan,  klik 
+pautan  `Kursus  Dalaman'  yang   berada di bawah tajuk `Kursus/Latihan Online'. iii.  Skrin pencalonan
+kursus dalaman akan dipaparkan. Gambarajah 53: Pencalonan Kursus Dalaman
+iv.  Klik butang `Pilih Peserta' untuk memilih peserta kursus. INTEXS SDN
+BHD                                                                        
+    40  Panduan Pengguna                                            Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 54: Pilih peserta kursus v.  Pilih Bahagian dan Unit untuk
+memilih peserta. Kemudian klik butang                  untuk memilih
+peseta. vi.  Klik butang OK untuk kembali ke skrin asal. vii.  Senarai
+peserta yang dipilih tadi akan terpapar diskrin `Kursus Dalaman' Gambarajah
+55: Senarai peserta pilihan viii.  Klik  butang  `Simpan'  (terletak  di 
+bahagian  atas  skrin)  untuk  menyimpan maklumat. ix.  Kemudian  klik 
+butang  `Cetak'  untuk  mencetak  senarai.  *tujuan  cetakan adalah untuk
+mendapat kelulusan secara manual daripada SUB/TKSU.   x.  Setelah  selesai  mencetak  (setelah  kelulusan  di  perolehi),  klik 
+butang  `Hantar' yang terletak di bawah `Senarai Peserta'. xi.  Mesej
+pengesahan penghantaran kepada Ketua Unit dan peserta kursus akan
+dipaparkan INTEXS SDN BHD                                                  
+                                 41  Panduan Pengguna                     
+                      Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 56: Mesej pengesahan penghantaran pencalonan kursus dalaman 13.2
+ Ketua Unit mengambil tindakan terhadap pencalonan kakitangannya. i. 
+Melalui `Inbox' Ketua Unit, klik emel yang bertajuk seperti di bawah.
+Gambarajah 57: Emel notifikasi pencalonan kursus ii.  Klik emel berkenaan
+iii.  Kandungan emel berkenaan akan dipaparkan iv.  Klik link yang terdapat
+di dalam `body' emel berkenaan. v.  Rekod pencalonan peserta kursus dalaman
+akan dipaparkan. Gambarajah 58: Skrin pencalonan peserta kursus dalaman   vi.  Klik butang `Ubah' untuk mengemaskini rekod. vii.  Di  bahagian 
+`Senarai  Peserta'  klik  peserta  yang  ingin  diluluskan.  Tetingkap
+`Kehadiran Kursus' akan dipaparkan INTEXS SDN BHD                          
+                                                        42  Panduan
+Pengguna                                              Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 59: Skrin Kehadiran Kursus viii.  Klik butang `Ubah' untuk
+mengemaskini status kelulusan. ix.  Di medan `Status Kelulusan' klik
+pilihan yang berkenaan. Gambarajah 60: Pencalonan kursus dalaman ­ status
+kelulusan oleh Ketua Unit x.  Klik  butang  `Simpan  &  Keluar'  untuk 
+menyimpan  rekod  dan  seterusnya  keluar daripada  skrin  `Kehadiran 
+Kursus'.  Emel  notifikasi  dihantar  kepada  Unit  PSM untuk pemberitahuan
+status kelulusan. xi.  Skrin  Kursus  Dalaman  secara  automatiknya 
+dikemaskini  dengan  maklumat yang telah dimasukkan tadi.   Gambarajah 61: Senarai Peserta ­ Selepas kelulusan Ketua Unit INTEXS SDN
+BHD                                                                        
+            43  Panduan Pengguna                                          
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+xii.  Klik butang `Simpan' untuk menyimpan maklumat. 13.3  Ketua Unit
+mengambil tindakan terhadap pencalonan kakitangannya ­ Peserta Ganti. i. 
+Melalui `Inbox' Ketua Unit, klik emel yang bertajuk seperti di bawah.
+Gambarajah 62: Emel notifikasi pencalonan kursus ii.  Klik emel berkenaan
+iii.  Kandungan emel berkenaan akan dipaparkan iv.  Klik link yang terdapat
+di dalam `body' emel berkenaan. v.  Rekod pencalonan peserta kursus dalaman
+akan dipaparkan. Gambarajah 63: Skrin pencalonan peserta kursus dalaman vi.
+ Klik butang `Ubah' untuk mengemaskini rekod. vii.  Di  bahagian  `Senarai 
+Peserta'  klik  peserta  yang  ingin  diluluskan.  Tetingkap `Kehadiran
+Kursus' akan dipaparkan   INTEXS SDN BHD                                                            
+                 44  Panduan Pengguna                                     
+       Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 64: Skrin Kehadiran Kursus viii.  Klik butang `Ubah' untuk
+mengemaskini status kelulusan. ix.  Di medan `Status Kelulusan' klik
+pilihan "Tidak Lulus" yang berkenaan. Gambarajah 65: Pencalonan kursus
+dalaman ­ Peserta Ganti x.  Klik  butang  `Simpan  &  Keluar'  untuk 
+menyimpan  rekod  dan  seterusnya  keluar daripada  skrin  `Kehadiran 
+Kursus'.  Emel  notifikasi  dihantar  kepada  Unit  PSM untuk pemberitahuan
+status kelulusan. xi.  Skrin  Kursus  Dalaman  secara  automatiknya 
+dikemaskini  dengan  maklumat yang telah dimasukkan tadi. INTEXS SDN BHD   
+                                                                           
+ 45  Panduan Pengguna                                            Sistem
+`Common Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 66: Senarai Peserta ­ Selepas kelulusan Ketua Unit xii.  Klik
+butang `Simpan' untuk menyimpan maklumat. 13.4  Unit PSM mengemaskini
+Status kehadiran selepas kursus i.  Daripada menu utama Sistem e-Latihan,
+klik (expand) `Kursus Dalaman' yang berada di bawah tajuk
+`Senarai/Laporan'. ii.  Klik `Senarai Untuk Pengesahan Kehadiran Selepas
+Kursus' iii.  Klik  rekod  yang  hendak  diambil  tindakan.  Rekod 
+dipaparkan,  klik  butang `Ubah' untuk mengemaskini rekod. iv.  Di 
+bahagian  `Senarai  Peserta'  klik  peserta  yang  ingin  dikemaskini 
+status kehadirannya. Gambarajah 67: Senarai Peserta untuk kemaskini status
+kehadiran selepas kursus v.  Skrin `Kehadiran Kursus' dipaparkan. Klik
+butang `Ubah' vi.  Di seksyen  `PSM ­ Status Kehadiran Selepas Kursus'
+kemaskini status kehadiran kakitangan tersebut. INTEXS SDN BHD             
+                                                                     46 
+Panduan Pengguna                                                     
+Sistem `Common Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 68: Skrin Status Kehadiran Selepas Kursus vii.  Klik  butang 
+`Simpan  &  Keluar'  untuk  menyimpan  rekod  dan  seterusnya  keluar
+daripada skrin `Kehadiran Kursus'. viii.  Skrin  Kursus  Dalaman  secara 
+automatiknya  dikemaskini  dengan  maklumat yang telah dimasukkan tadi.
+Gambarajah 69: Skrin kursus dalaman ­ Kemaskini status kehadiran selepas
+kursus ix.  Klik butang `Simpan' untuk menyimpan maklumat. 13.5  Senarai
+Paparan i.  Rekod kursus dalaman boleh dicapai semula melalui paparan atau
+view. ii.  Berikut adalah senarai paparan. Bil.          Nama Paparan
+(view)                       Keterangan 1              Senarai Untuk
+Dihantar  *  Memaparkan senarai rekod kursus kepada Ketua Unit            
+dalaman untuk tindakan Ketua Unit. Peserta 2              Senarai Untuk    
+          *  Memaparkan senarai rekod kursus Pengesahan Kehadiran         
+dalaman untuk tindakan PSM selepas Selepas Kursus                kursus.   3              Mengikut Kursus             *  Memaparkan senarai rekod
+kursus dalaman yang disusun mengikut kursus. 4              Mengikut Tahun
+dan          *  Memaparkan senarai rekod kursus INTEXS SDN BHD             
+                                                                         
+47  Panduan Pengguna                                                Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Bil.      Nama Paparan (view)                         Keterangan Kategori
+Kursus                dalaman yang disusun mengikut tahun dan kategori
+kursus. 5             Mengikut Tahun dan           *  Memaparkan senarai
+rekod kursus Unit                           dalaman yang disusun mengikut
+tahun dan Unit peserta. 6             Kursus Anjuran Syarikat      * 
+Memaparkan senarai rekod kursus Swasta                         dalaman yang
+dianjurkan oleh syarikat swasta 7             Kursus Anjuran              
+*  Memaparkan senarai rekod kursus   INTAN/JPA/Institusi            dalaman yang dianjurkan oleh anjuran
+Latihan Awam                   INTAN/JPA/Institusi Latihan Awam. 8         
+   Mengikut Tahun               *  Memaparkan senarai rekod kursus dalaman
+mengikut tahun 9             Mengikut Peserta             *  Memaparkan
+senarai rekod kursus dalaman yang disusun mengikut nama peserta. Jadual 10:
+Senarai View kursus dalaman INTEXS SDN BHD                                 
+                                                 48  Panduan Pengguna     
+                                     Sistem `Common Office Environment'
+Modul: e-Latihan
+______________________________________________________________________________
+14.0  KURSUS LUARAN 14.1  Pencalonan Kursus i.  Skrin  ini  bertujuan 
+untuk  membolehkan  kakitangan  Unit  PSM  mencalonkan kakitangan KWP untuk
+menghadiri kursus. ii.  Daripada  menu  utama  Sistem  e-Latihan,  klik 
+pautan  `Kursus  Luaran'  yang berada di bawah tajuk `Kursus/Latihan
+Online'. iii.  Skrin pencalonan kursus luaran akan dipaparkan.   Gambarajah 70: Pencalonan Kursus Luaran iv.  Klik butang `Pilih Peserta'
+untuk memilih peserta kursus. INTEXS SDN BHD                               
+                                             49  Panduan Pengguna         
+                                  Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+Gambarajah 71: Pilih peserta kursus v.  Pilih Bahagian dan Unit untuk
+memilih peserta. Kemudian klik butang                  untuk memilih
+peseta. vi.  Klik butang OK untuk kembali ke skrin asal. vii.  Senarai
+peserta yang dipilih tadi akan terpapar di skrin `Kursus Luaran' Gambarajah
+72: Senarai peserta pilihan viii.  Klik  butang  `Simpan'  (terletak  di 
+bahagian  atas  skrin)  untuk  menyimpan maklumat. ix.  Kemudian  klik 
+butang  `Cetak'  untuk  mencetak  senarai.  *tujuan  cetakan adalah untuk
+mendapat kelulusan secara manual daripada SUB/TKSU. x.  Setelah  selesai 
+mencetak  (setelah  kelulusan  di  perolehi),  klik  butang  `Hantar'   yang terletak di bawah `Senarai Peserta'. xi.  Mesej pengesahan
+penghantaran kepada Ketua Unit dan peserta kursus akan dipaparkan INTEXS
+SDN BHD                                                                    
+               50  Panduan Pengguna                                       
+   Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 73: Mesej pengesahan penghantaran pencalonan kursus luaran 14.2 
+Ketua Unit mengambil tindakan terhadap pencalonan kakitangannya. i. 
+Melalui `Inbox' Ketua Unit, klik emel yang bertajuk seperti di bawah.
+Gambarajah 74: Emel notifikasi pencalonan kursus luaran ii.  Klik emel
+berkenaan iii.  Kandungan emel berkenaan akan dipaparkan iv.  Klik link
+yang terdapat di dalam `body' emel berkenaan. v.  Rekod pencalonan peserta
+kursus luaran akan dipaparkan. Gambarajah 75: Skrin pencalonan peserta
+kursus luaran vi.  Klik butang `Ubah' untuk mengemaskini rekod. vii.  Di 
+bahagian  `Senarai  Peserta'  klik  peserta  yang  ingin  diluluskan. 
+Tetingkap   `Kehadiran Kursus' akan dipaparkan INTEXS SDN BHD                         
+                                                         51  Panduan
+Pengguna                                               Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 76: Skrin Kehadiran Kursus viii.  Klik butang `Ubah' untuk
+mengemaskini status kelulusan. ix.  Di medan `Status Kelulusan' klik
+pilihan yang berkenaan. Gambarajah 77: Pencalonan kursus luaran ­ status
+kelulusan oleh Ketua Unit x.  Klik  butang  `Simpan  &  Keluar'  untuk 
+menyimpan  rekod  dan  seterusnya  keluar daripada  skrin  `Kehadiran 
+Kursus'.  Emel  notifikasi  dihantar  kepada  Unit  PSM untuk pemberitahuan
+status kelulusan. xi.  Skrin  Kursus  Luaran  secara  automatiknya 
+dikemaskini  dengan  maklumat  yang telah dimasukkan tadi. Gambarajah 78:
+Senarai Peserta ­ Selepas kelulusan Ketua Unit INTEXS SDN BHD              
+                                                                      52    Panduan Pengguna                                           Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+xii.  Klik butang `Simpan' untuk menyimpan maklumat. 14.3  Ketua Unit
+mengambil tindakan terhadap pencalonan kakitangannya ­ Peserta Ganti. i. 
+Melalui `Inbox' Ketua Unit, klik emel yang bertajuk seperti di bawah.
+Gambarajah 79: Emel notifikasi pencalonan kursus ii.  Klik emel berkenaan
+iii.  Kandungan emel berkenaan akan dipaparkan iv.  Klik link yang terdapat
+di dalam `body' emel berkenaan. v.  Rekod pencalonan peserta kursus luaran
+akan dipaparkan. Gambarajah 80: Skrin pencalonan peserta kursus luaran vi. 
+Klik butang `Ubah' untuk mengemaskini rekod. vii.  Di  bahagian  `Senarai 
+Peserta'  klik  peserta  yang  ingin  diluluskan.  Tetingkap `Kehadiran
+Kursus' akan dipaparkan INTEXS SDN BHD                                     
+                                          53  Panduan Pengguna            
+                                Sistem `Common Office Environment'   Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 81: Skrin Kehadiran Kursus viii.  Klik butang `Ubah' untuk
+mengemaskini status kelulusan. ix.  Di medan `Status Kelulusan' klik
+pilihan "Tidak Lulus" yang berkenaan. Gambarajah 82: Pencalonan kursus
+luaran ­ Peserta Ganti x.  Klik  butang  `Simpan  &  Keluar'  untuk 
+menyimpan  rekod  dan  seterusnya  keluar daripada  skrin  `Kehadiran 
+Kursus'.  Emel  notifikasi  dihantar  kepada  Unit  PSM untuk pemberitahuan
+status kelulusan. xi.  Skrin  Kursus  Luaran  secara  automatiknya 
+dikemaskini  dengan  maklumat  yang telah dimasukkan tadi. INTEXS SDN BHD  
+                                                                           
+  54  Panduan Pengguna                                            Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 83: Senarai Peserta ­ Selepas kelulusan Ketua Unit xii.  Klik
+butang `Simpan' untuk menyimpan maklumat.   14.4  Unit PSM mengemaskini Status kehadiran selepas kursus i.  Daripada 
+menu  utama  Sistem  e-Latihan,  klik  (expand)  `Kursus  Luaran'  yang
+berada di bawah tajuk `Senarai/Laporan'. ii.  Klik `Senarai Untuk
+Pengesahan Kehadiran Selepas Kursus' iii.  Klik  rekod  yang  hendak 
+diambil  tindakan.  Rekod  dipaparkan,  klik  butang `Ubah' untuk
+mengemaskini rekod. iv.  Di  bahagian  `Senarai  Peserta'  klik  peserta 
+yang  ingin  dikemaskini  status kehadirannya. Gambarajah 84: Senarai
+Peserta untuk kemaskini status kehadiran selepas kursus v.  Skrin
+`Kehadiran Kursus' dipaparkan. Klik butang `Ubah' vi.  Di seksyen  `PSM ­
+Status Kehadiran Selepas Kursus' kemaskini status kehadiran kakitangan
+tersebut. INTEXS SDN BHD                                                   
+                               55  Panduan Pengguna                       
+                               Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+Gambarajah 85: Skrin Status Kehadiran Selepas Kursus   vii.  Klik  butang  `Simpan  &  Keluar'  untuk  menyimpan  rekod  dan 
+seterusnya  keluar daripada skrin `Kehadiran Kursus'. viii.  Skrin  Kursus 
+Luaran  secara  automatiknya  dikemaskini  dengan  maklumat  yang telah
+dimasukkan tadi. Gambarajah 86: Skrin kursus dalaman ­ Kemaskini status
+kehadiran selepas kursus ix.  Klik butang `Simpan' untuk menyimpan
+maklumat. 14.5  Senarai Paparan i.  Rekod kursus luaran boleh dicapai
+semula melalui paparan atau view. ii.  Berikut adalah senarai paparan. Bil.
+         Nama Paparan (view)                       Keterangan 1            
+ Senarai Untuk Dihantar  *  Memaparkan senarai rekod kursus kepada Ketua
+Unit             luaran untuk tindakan Ketua Unit. Peserta 2             
+Senarai Untuk               *  Memaparkan senarai rekod kursus Pengesahan
+Kehadiran          luaran untuk tindakan PSM selepas Selepas Kursus        
+       kursus. 3              Mengikut Kursus             *  Memaparkan
+senarai rekod kursus luaran yang disusun mengikut kursus. 4             
+Mengikut Tahun dan          *  Memaparkan senarai rekod kursus   Kategori Kursus               luaran yang disusun mengikut tahun INTEXS
+SDN BHD                                                                    
+                       56  Panduan Pengguna                               
+                Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Bil.      Nama Paparan (view)                         Keterangan dan
+kategori kursus. 5             Mengikut Tahun dan           *  Memaparkan
+senarai rekod kursus Unit                           luaran yang disusun
+mengikut tahun dan Unit peserta. 6             Kursus Anjuran Syarikat     
+*  Memaparkan senarai rekod kursus Swasta                         luaran
+yang dianjurkan oleh syarikat swasta 7             Kursus Anjuran          
+    *  Memaparkan senarai rekod kursus INTAN/JPA/Institusi           
+luaran yang dianjurkan oleh anjuran Latihan Awam                  
+INTAN/JPA/Institusi Latihan Awam. 8             Mengikut Tahun             
+ *  Memaparkan senarai rekod kursus   luaran mengikut tahun 9             Mengikut Peserta             * 
+Memaparkan senarai rekod kursus luaran yang disusun mengikut nama peserta.
+Jadual 11: Senarai View kursus luaran INTEXS SDN BHD                       
+                                                              57  Panduan
+Pengguna                                          Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+15.0  LAPORAN PENILAIAN KURSUS DALAMAN 15.1  Kemasukan Rekod i.  Skrin  ini
+ bertujuan  untuk  membolehkan  kakitangan  KWP  untuk  memasukkan laporan
+penilaian kursus dalaman. ii.  Daripada menu utama Sistem e-Latihan, klik
+pautan `Laporan Penilaian Kursus Dalaman' yang berada di bawah tajuk
+`Laporan Penilaian'. Gambarajah 87: Laporan penilaian kursus dalaman iii. 
+Klik butang `Tambah' untuk menambah sesi ceramah. Sistem menyediakan 20
+baris untuk sesi ceramah. iv.  Klik  butang  `Simpan  &  Hantar'  untuk 
+menyimpan  maklumat  dan  seterusnya   menghantar laporan kepada Unit PSM. INTEXS SDN BHD                        
+                                                   58  Panduan Pengguna   
+                                         Sistem `Common Office Environment'
+Modul: e-Latihan
+______________________________________________________________________________
+v.  Mesej pengesahan penghantaran laporan akan dipaparkan. Gambarajah 88:
+Mesej penghantaran emel notifikasi kepada kakitangan Unit PSM 15.2 
+Kakitangan Unit PSM menerima emel notifikasi laporan penilaian kursus
+dalaman i.      Melalui `Inbox' kakitangan Unit PSM, klik emel yang
+bertajuk seperti di bawah Gambarajah 89: Emel notifikasi laporan penilaian
+kursus dalaman ii.  Klik emel berkenaan iii.  Kandungan emel berkenaan akan
+dipaparkan. Gambarajah 90: Kandungan emel notifikasi laporan penilaian
+kursus dalaman iv.  Klik pada link di dalam `body' emel di atas. v.  Rekod 
+laporan  penilaian  kursus  dalaman  kakitangan  berkenaan  akan
+dipaparkan. vi.  Klik butang `Tutup' untuk menutup skrin rekod.   15.3  Senarai Paparan i.  Rekod  laporan  penilaian  kursus  dalaman 
+boleh  dicapai  semula  melalui paparan atau view. ii.  Berikut adalah
+senarai paparan. INTEXS SDN BHD                                            
+                                   59  Panduan Pengguna                   
+                           Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+Bil.     Nama Paparan (view)                         Keterangan 1          
+  Mengikut Nama              *  Memaparkan senarai laporan penilaian kursus
+dalaman yang disusun mengikut nama. 2             Mengikut Kursus          
+ *  Memaparkan senarai rekod laporan penilaian kursus mengikut kursus. 3   
+         Laporan Belum              *  Memaparkan senarai kakitangan yang
+Disediakan                    belum mengemukakan laporan penilaian kursus
+dalaman. Jadual 12: Senarai View laporan penilaian kursus dalaman INTEXS
+SDN BHD                                                                    
+              60    Panduan Pengguna                                       Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+16.0  LAPORAN PENILAIAN KURSUS LUARAN 16.1  Kemasukan Rekod i.  Skrin  ini 
+bertujuan  untuk  membolehkan  kakitangan  KWP  untuk  memasukkan laporan
+penilaian kursus luaran. ii.  Daripada menu utama Sistem e-Latihan, klik
+pautan `Laporan Penilaian Kursus Luaran' yang berada di bawah tajuk
+`Laporan Penilaian'. Gambarajah 91: Laporan penilaian kursus luaran INTEXS
+SDN BHD                                                                    
+    61  Panduan Pengguna                                            
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+iii.  Klik  butang  `Simpan  &  Hantar'  untuk  menyimpan  maklumat  dan 
+seterusnya menghantar laporan kepada Unit PSM. iv.  Mesej pengesahan
+penghantaran laporan akan dipaparkan. Gambarajah 92: Mesej penghantaran
+emel notifikasi kepada kakitangan Unit PSM   16.2  Kakitangan Unit PSM menerima emel notifikasi laporan penilaian
+kursus luaran i.  Melalui `Inbox' kakitangan Unit PSM, klik emel yang
+bertajuk seperti di bawah Gambarajah 93: Emel notifikasi laporan penilaian
+kursus luaran ii.  Klik emel berkenaan iii.  Kandungan emel berkenaan akan
+dipaparkan. Gambarajah 94: Kandungan emel notifikasi laporan penilaian
+kursus luaran iv.  Klik pada link di dalam `body' emel di atas. v.  Rekod 
+laporan  penilaian  kursus  luaran  kakitangan  berkenaan akan dipaparkan.
+vi.  Klik butang `Tutup' untuk menutup skrin rekod. INTEXS SDN BHD         
+                                                                         
+62  Panduan Pengguna                                                   
+Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+16.3  Senarai Paparan i.  Rekod laporan penilaian kursus luaran boleh
+dicapai semula melalui paparan atau view. ii.  Berikut adalah senarai
+paparan. Bil.          Nama Paparan (view)                        
+Keterangan   1                 Mengikut Nama              *  Memaparkan senarai laporan
+penilaian kursus luaran yang disusun mengikut nama. 2                
+Mengikut Kursus            *  Memaparkan senarai rekod laporan penilaian
+kursus mengikut kursus. 3                 Laporan Belum              * 
+Memaparkan senarai kakitangan yang Disediakan                     belum
+mengemukakan laporan penilaian kursus dalaman. Jadual 13: Senarai View
+laporan penilaian kursus luaran INTEXS SDN BHD                             
+                                                           63  Panduan
+Pengguna                                           Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+17.0  LAPORAN KURSUS/PEPERIKSAAN AGENSI 17.1  Menghantar Format Laporan i. 
+Skrin ini bertujuan untuk membolehkan kakitangan Unit PSM KWP menghantar
+format laporan kepada agensi yang dipilih. ii.  Setelah agensi menerima
+laporan berkenaan, laporan yang telah diisi dihantar   semula kepada Unit PSM KWP melalui sistem. iii.  Daripada  menu  utama 
+Sistem  e-Latihan,  klik  pautan  `Laporan Kursus/Peperiksaan Agensi' yang
+berada di bawah tajuk `Laporan Agensi'. Gambarajah 95: Laporan
+kursus/peperiksaan agensi iv.  Klik  butang  `Simpan  &  Hantar'  untuk 
+menyimpan  maklumat  dan  seterusnya menghantar laporan kepada agensi. v. 
+Mesej pengesahan penghantaran laporan akan dipaparkan. INTEXS SDN BHD      
+                                                                      64 
+Panduan Pengguna                                                     Sistem
+`Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 96: Mesej penghantaran emel notifikasi kepada kakitangan Unit
+PSM 17.2       Agensi menerima e-mel notifikasi daripada sistem i.  Melalui
+Inbox agensi, klik e-mel yang bertajuk seperti di bawah. Gambarajah 97:
+Emel notifikasi untuk mengambil tindakan terhadap format laporan yang
+diterima ii.  E-mel notifikasi akan dipaparkan.   Gambarajah 98: Kandungan emel notifikasi iii.  Klik pada link yang
+terletak di bawah tajuk "Buka dokumen dengan klik pada link di bawah:" iv. 
+Borang untuk memasukkan laporan akan dipaparkan INTEXS SDN BHD             
+                                                                         65
+ Panduan Pengguna                                         Sistem `Common
+Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 99: Skrin untuk memasukkan laporan kursus/peperiksaan agensi v. 
+Klik butang `Ubah' untuk melakukan pengemaskinian terhadap borang. vi. 
+Klik pada lampiran yang terdapat di dalam borang. Gambarajah 100: Lampiran
+laporan kursus/peperiksaan INTEXS SDN BHD                                  
+                                         66  Panduan Pengguna             
+                               Sistem `Common Office Environment' Modul:
+e-Latihan
+______________________________________________________________________________
+vii.  Tetingkap  `File  Download'  akan  dipaparkan.  Klik  `Save'  untuk 
+menyimpan   maklumat ke dalam komputer. Gambarajah 101: Tetingkap untuk menyimpan fail
+lampiran ke dalam komputer. viii.  Kemudian pilih `folder' untuk lokasi
+fail yang disimpan. ix.  (Proses manual). Isi maklumat di dalam laporan ke
+dalam fail yang di simpan tadi. x.  Kemudian, lampirkan semula laporan yang
+diisi tadi ke dalam borang. xi.  Isi  maklumat  ke  dalam  medan  yang 
+disediakan  yang  berada  di  bawah seksyen `Agensi' seperti di bawah.
+Gambarajah 102: Maklumat diisi oleh agensi xii.  Klik butang "Simpan &
+Hantar" untuk menghantar laporan kepada PSM KWP. xiii.  Mesej pengesahan
+laporan telah dihantar dipaparkan. INTEXS SDN BHD                          
+                                                    67  Panduan Pengguna  
+                                           Sistem `Common Office
+Environment' Modul: e-Latihan
+______________________________________________________________________________
+Gambarajah 103: Skrin pengesahan laporan telah dihantar kepada pihak PSM
+KWP 7.3  Melihat semula rekod laporan yang telah dihantar   Pihak  agensi  boleh  melihat  semula  rekod  laporan  yang  telah 
+dihantar  untuk tujuan rujukan. Ikuti langkah di bawah: i.  Lancarkan
+(launch) perisian `Internet Explorer' ii.  Pada  ruang  `Address'  masukkan
+ "http://coeapp.kwp.gov.my/coe/latihan.nsf" dan klik `Go' atau tekan
+`Enter' pada papan kekunci iii.  Di  bahagian  menu  (kiri),  klik 
+(expand)                        "Laporan  Agensi"  di bawah tajuk
+`Senarai/Laporan'. Kemudian klik "Untuk Tindakan Saya". iv.  Skrin paparan
+senarai laporan yang telah dihantar oleh agensi dipaparkan. Gambarajah 104:
+Skrin senarai laporan agensi v.  Klik pada laporan agensi sendiri. Laporan
+akan dipaparkan. vi.  Klik butang `Tutup' untuk menutup skrin laporan.
+INTEXS SDN BHD                                                             
+                        68  Panduan Pengguna                              
+     Sistem `Common Office Environment' Modul: e-Latihan
+______________________________________________________________________________
+18.0  LAPORAN/STATISTIK   Sistem menyediakan laporan/statistic untuk tujuan analisis data.
+Laporan/statistik yang telah disediakan adalah seperti berikut: 18.1 
+Laporan Perbelanjaan 18.2  Laporan Bilangan Pegawai Yang Menghadiri Kursus
+18.3  Laporan Bilangan Pegawai Yang Menghadiri Kursus Mengikut Bidang
+Kursus 18.4  Jadual 1 ­ Prestasi Kehadiran Kursus Pegawai Pengurusan &
+Profesional dan Pegawai Kumpulan Sokongan 18.5  Carta 1 - Prestasi
+Kehadiran Kursus Pegawai Pengurusan & Profesional dan Pegawai Kumpulan
+Sokongan 18.6  Jadual 2 ­ Prestasi Kehadiran Kursus Pegawai Pengurusan &
+Profesional 18.7  Carta 2 ­ Prestasi Kehadiran Kursus Pegawai Pengurusan &
+Profesional 18.8  Jadual 3 ­ Prestasi Kehadiran Kursus Pegawai Kumpulan
+Sokongan 18.9  Carta 3 - Prestasi Kehadiran Kursus Pegawai Kumpulan
+Sokongan 18.10  Jadual 4 ­ Bilangan Kehadiran Mengikut Bidang Kursus INTEXS
+SDN BHD                                                                    
+ 69   

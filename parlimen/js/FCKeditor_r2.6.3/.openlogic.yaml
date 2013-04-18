@@ -1,0 +1,18 @@
+--- 
+name: FCKeditor 2.6.4 Source
+platform_id: all
+platform_version: all
+distribution_file_uuid_string: openlogic-fckeditor-2.6.4-all-src-1
+platform_vendor: all
+version_visibility: public
+description: FCKeditor 2.6.4 Source
+platform_arch: all
+distribution_file_uuid: 40730014ce483bf022170465f95534ad9564ddaba245f5d3ebd16e21839074aa
+distribution_version: 1
+distribution_flavor: ""
+distribution_raw_file: FCKeditor_2.6.4.tar.gz
+package_version: 2.6.4
+package_id: fckeditor
+release_date: "2009-02-19"
+distribution_notes: ""
+distribution_type: src

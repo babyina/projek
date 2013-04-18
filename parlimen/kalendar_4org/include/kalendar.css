@@ -1,0 +1,35 @@
+table.listView th{
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+	background-color:#6699CC;
+	padding-left: 5px;
+	padding-right: 5px;
+	border: 1px solid #6699CC;
+	height: 20px;
+}
+
+table.listView td{
+	font-size: 11px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #C0C0C0;
+	background-color:#DBDBF7;
+}
+table.listView td.cuti{
+	font-size: 11px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #C0C0C0;
+	background-color:#CCCCCC;
+}
+table.listView td.odd{
+	background-color:#ECE9D8;
+}
+table.listView td.even{
+	background-color:#ECECFB;
+}
+.trOver { BACKGROUND-COLOR: #CCFF99 }
