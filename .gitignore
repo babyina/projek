@@ -161,3 +161,15 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#############
+## Projek
+#############
+# Dreamweaver added files
+**/_notes
+**/examples
+dwsync.xml
+
+# Projek Docs
+*.doc
+*.pdf
